@@ -9,11 +9,12 @@ export default function App() {
         <a
           href="https://github.com/Natasza23/react_weather_app2"
           target="_blank"
+          rel="noreferrer"
         >
           Open-sourced project{" "}
         </a>
         coded by{" "}
-        <a href="https://github.com/Natasza23" target="_blank">
+        <a href="https://github.com/Natasza23" target="_blank" rel="noreferrer">
           Natasza Szulc
         </a>
       </footer>
